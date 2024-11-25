@@ -1,0 +1,15 @@
+{
+  "title": "Welcome to $t(common:appName.full) by TheCodingMachine",
+  "text": "Enter your tour code and discover your next adventure",
+  "TourButton": "TOUR CODE", 
+  "KartButton": "KART", 
+  "PoengsumButton": "POENGSUM", 
+  "LagetsNavn": "Lagets navn",
+  "time": "0t 23m 45s", 
+  "PoiListeButton":"POI LISTE", 
+  "PostKoden":"Padle og finn postkoden på øya", 
+  "send": "SEND", 
+  "score": "SCORE",
+  "paragraph1":"Sognsvann er en innsjø i Oslomarka og et svært populært friluftsområde for både bading og tur om sommeren.Eller skøyter og ski om vinteren.",
+  "paragraph2" :"Det er flere spennende kulturminner i nærheten. Blant annet gruver og huler. Samt Svenskemuren reist av svenske krigsfanger på 1800-tallet."
+}
